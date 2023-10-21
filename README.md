@@ -1,6 +1,6 @@
-# Intrusion Detection using Machine Learning
+# Intrusion Detection using Machine Learning 🛡️
 
-🔒🚀 Protecting computer networks against cyber threats with machine learning models.
+🔒🚀This repository houses a comprehensive Intrusion Detection System (IDS) project built on machine learning techniques, with a primary focus on the NSL-KDD dataset. Our goal is to develop a robust, scalable, and efficient system to detect and prevent intrusions in computer networks.
 
 
 ## Overview
@@ -76,7 +76,7 @@ Dataset source: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/intrusion-detection.git
+   https://github.com/Maatrika-P/Intrusion-Detection-System.git
 
 2. Install the required dependencies:
    
