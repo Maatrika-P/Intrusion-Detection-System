@@ -48,7 +48,7 @@ Dataset source: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 - F1 Score
 - R2 Score
 
-🔍📊 You can find all the appropirate scores either in the beginning of their respective .ipynb or their cell outputs.
+🔍📊 You can find all the appropriate scores either in the beginning of their respective .ipynb or their cell outputs.
 
 
 ## Code Structure
