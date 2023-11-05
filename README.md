@@ -57,7 +57,8 @@ Dataset source: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 
 - `LSTM.ipynb`: Jupyter Notebook containing the code for the LSTM model.
 - `CNN.ipynb`: Jupyter Notebook containing the code for the CNN model.
-- `Binary_Classification+FNN`:  Jupyter Notebook containing the codes for 5 basic classifiers and Feedforward Neural Network model.
+- `Binary_Classification+FNN.ipynb`:  Jupyter Notebook containing the codes for 5 basic classifiers and Feedforward Neural Network model.
+- `Final_modelsipynb`: Contains another CNN model and a combined model of CNN+LSTM model giving the best performance
 
 
 ## Usage
@@ -65,7 +66,7 @@ Dataset source: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 🚀 Follow these steps to use the repository:
 
 1. Ensure you have the necessary libraries and dependencies installed.
-2. Open the relevant Jupyter Notebook (`LSTM.ipynb` or `CNN.ipynb`) to train and evaluate the models.
+2. Open the relevant Jupyter Notebook (`LSTM.ipynb` or `CNN.ipynb`, any other too) to train and evaluate the models.
 3. Follow the instructions in the notebook to load the dataset and run the code.
 
 
