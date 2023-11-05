@@ -58,7 +58,7 @@ Dataset source: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 - `LSTM.ipynb`: Jupyter Notebook containing the code for the LSTM model.
 - `CNN.ipynb`: Jupyter Notebook containing the code for the CNN model.
 - `Binary_Classification+FNN.ipynb`:  Jupyter Notebook containing the codes for 5 basic classifiers and Feedforward Neural Network model.
-- `Final_modelsipynb`: Contains another CNN model and a combined model of CNN+LSTM model giving the best performance
+- `Final_models.ipynb`: Contains another CNN model and a combined model of CNN+LSTM model giving the best performance
 
 
 ## Usage
