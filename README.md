@@ -99,7 +99,3 @@ Feel free to explore and modify the code to suit your needs and improve the dete
 
 ## Contribution
 Contributions are welcome! Whether you want to suggest improvements, submit bug reports, or add new features, feel free to open an issue or create a pull request.
-
-Join us in building an intelligent defense system against network intrusions with machine learning. 🛠️🖥️💼
-
-💼 Credits to the developers and maintainers of machine learning and deep learning libraries used in this project.
